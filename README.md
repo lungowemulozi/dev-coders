@@ -1,1 +1,3 @@
-# dev-coders
+# maven-project
+
+Simple Maven Project
